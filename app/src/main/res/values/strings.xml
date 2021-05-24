@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="developed_by">SUNIDHI</string>
+    <string name="city">CITY.....</string>
+</resources>
